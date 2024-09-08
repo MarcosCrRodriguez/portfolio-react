@@ -1,11 +1,12 @@
 import React from "react";
 import "./Hero.css";
 import AnchorLink from "react-anchor-link-smooth-scroll";
+import myport_data from "./../../assets/myport_img";
 
 const Hero = () => {
   return (
     <div id="home" className="hero">
-      <img src="src\assets\icon-newimg.jpg" alt="" />
+      <img src={myport_data[0].p_img} alt="Perfil" />
       <h1>
         <span>I'm Marcos Rodriguez,</span> Full-Stack Developer based in
         Argentina
