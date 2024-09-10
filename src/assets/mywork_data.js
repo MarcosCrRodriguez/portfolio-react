@@ -3,7 +3,7 @@ import project2_img from "../assets/img-factoriofabric.png";
 import project3_img from "../assets/img-pokedex.png";
 import project4_img from "../assets/img-truco.png";
 import project5_img from "../assets/img-perfy.png";
-import project6_img from "../assets/project_6.svg";
+import project6_img from "../assets/perfect-game.png";
 
 const mywork_data = [
   {
@@ -40,7 +40,7 @@ const mywork_data = [
     w_no: 6,
     w_name: "Web design",
     w_img: project6_img,
-    w_link: "",
+    w_link: "https://angular-game-cdb9d.web.app/home",
   },
 ];
 
