@@ -34,7 +34,7 @@ const mywork_data = [
     w_no: 5,
     w_name: "Web design",
     w_img: project5_img,
-    w_link: "",
+    w_link: "https://perfy-drinks.netlify.app/",
   },
   {
     w_no: 6,
