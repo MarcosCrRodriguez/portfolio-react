@@ -1,7 +1,7 @@
 import project1_img from "../assets/lvlone-pygame.png";
 import project2_img from "../assets/img-factoriofabric.png";
 import project3_img from "../assets/home-sinlog.png";
-import project5_img from "../assets/img-perfy.png";
+import project5_img from "../assets/f1-web.png";
 import project6_img from "../assets/app-angular.png";
 import project4_img from "../assets/tablon-peliculas.png";
 
@@ -19,6 +19,18 @@ const mywork_data = [
     w_link: "https://www.youtube.com/watch?v=B1gitUJAib8",
   },
   {
+    w_no: 6,
+    w_name: "Web design",
+    w_img: project4_img,
+    w_link: "https://simulacro-app.web.app/peliculas",
+  },
+  {
+    w_no: 5,
+    w_name: "Web design",
+    w_img: project6_img,
+    w_link: "https://angular-game-cdb9d.web.app/home",
+  },
+  {
     w_no: 3,
     w_name: "Web design",
     w_img: project3_img,
@@ -28,19 +40,7 @@ const mywork_data = [
     w_no: 4,
     w_name: "Web design",
     w_img: project5_img,
-    w_link: "https://perfy-drinks.netlify.app/",
-  },
-  {
-    w_no: 5,
-    w_name: "Web design",
-    w_img: project6_img,
-    w_link: "https://angular-game-cdb9d.web.app/home",
-  },
-  {
-    w_no: 6,
-    w_name: "Web design",
-    w_img: project4_img,
-    w_link: "https://simulacro-app.web.app/peliculas",
+    w_link: "https://formulaone-angular.netlify.app/",
   },
 ];
 
