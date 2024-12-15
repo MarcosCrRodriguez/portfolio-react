@@ -1,6 +1,6 @@
 import project1_img from "../assets/lvlone-pygame.png";
 import project2_img from "../assets/img-factoriofabric.png";
-import project3_img from "../assets/home-sinlog.png";
+import project3_img from "../assets/clinica.png";
 import project5_img from "../assets/f1-web.png";
 import project6_img from "../assets/app-angular.png";
 import project4_img from "../assets/tablon-peliculas.png";
