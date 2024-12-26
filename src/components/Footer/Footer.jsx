@@ -26,7 +26,7 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">© 2024 Marcos Cruz Rodriguez</p>
+        <p className="footer-bottom-left">© 2025 Marcos Cruz Rodriguez</p>
         <div className="footer-bottom-right">
           <a
             href="https://github.com/MarcosCrRodriguez"

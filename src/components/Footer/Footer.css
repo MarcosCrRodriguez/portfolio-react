@@ -99,4 +99,12 @@
   .footer-top-left p {
     font-size: 17px;
   }
+
+  .footer-top-right {
+    flex-direction: column;
+  }
+
+  .footer-email-input input {
+    font-size: 16px;
+  }
 }
