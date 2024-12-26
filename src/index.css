@@ -9,3 +9,26 @@ body {
   color: white;
   font-family: "outfit";
 }
+
+/* Personalización general de la scrollbar */
+::-webkit-scrollbar {
+  width: 14px; /* Grosor de la barra de desplazamiento */
+}
+
+/* Fondo (track) de la scrollbar */
+::-webkit-scrollbar-track {
+  background: #242424; /* Color similar al fondo */
+  border-radius: 10px; /* Bordes redondeados */
+}
+
+/* La parte que se desplaza (thumb) */
+::-webkit-scrollbar-thumb {
+  background: #b415ff; /* Color principal (similar a tus cards) */
+  border-radius: 10px; /* Bordes redondeados */
+  border: 2px solid #0d1322; /* Hace que se integre con el fondo */
+}
+
+/* Al pasar el mouse por la scrollbar */
+::-webkit-scrollbar-thumb:hover {
+  background: #df8908; /* Cambio de color al pasar el mouse */
+}
