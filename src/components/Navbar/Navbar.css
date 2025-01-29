@@ -2,7 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 20px 170px;
+  margin: 0px 120px;
+  padding: 16px;
+  position: sticky; /* Hacer que el navbar se quede fijo */
+  top: 0; /* Asegurarse de que se quede en la parte superior */
+  z-index: 10; /* Asegurarse de que quede por encima de otros elementos */
+  background-color: #161513; /* Puedes ajustar el color de fondo según lo que necesites */
 }
 
 .nav-menu {

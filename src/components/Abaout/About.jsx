@@ -32,11 +32,11 @@ const About = () => {
           <div className="about-skills">
             <div className="about-skill">
               <p>HTML & CSS</p>
-              <hr style={{ width: "80%" }} />
+              <hr style={{ width: "85%" }} />
             </div>
             <div className="about-skill">
               <p>Angular</p>
-              <hr style={{ width: "65%" }} />
+              <hr style={{ width: "75%" }} />
             </div>
             <div className="about-skill">
               <p>React JS</p>
@@ -52,7 +52,7 @@ const About = () => {
             </div>
             <div className="about-skill">
               <p>C#</p>
-              <hr style={{ width: "80%" }} />
+              <hr style={{ width: "85%" }} />
             </div>
             <div className="about-skill">
               <p>Java</p>
@@ -76,7 +76,7 @@ const About = () => {
         </div>
         <hr />
         <div className="about-achievement">
-          <h1>10+</h1>
+          <h1>15+</h1>
           <p>PROJECTS COMPLETED</p>
         </div>
       </div>

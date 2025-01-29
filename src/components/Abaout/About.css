@@ -101,14 +101,14 @@
 }
 
 .about-skill:hover {
-  transform: scale(1.05);
-  transition: 0.3;
+  transform: scale(1.03);
+  transition: 0.15;
 }
 
-.about-achievement:hover {
+/* .about-achievement:hover {
   transform: scale(1.12);
   transition: 0.5;
-}
+} */
 
 @media (max-width: 768px) {
   .about {
