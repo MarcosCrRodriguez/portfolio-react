@@ -6,6 +6,7 @@ import project6_img from "../assets/app-angular.png";
 import project4_img from "../assets/tablon-peliculas.png";
 import project7_img from "../assets/img-perfy.png";
 import project8_img from "../assets/arcane-web2.png";
+import project9_img from "../assets/pal-web.png";
 
 const mywork_data = [
   {
@@ -55,6 +56,12 @@ const mywork_data = [
     w_name: "Web design",
     w_img: project8_img,
     w_link: "https://angular-arcanefanpage.netlify.app/presentacion",
+  },
+  {
+    w_no: 9,
+    w_name: "Web design",
+    w_img: project9_img,
+    w_link: "https://pal-website.netlify.app/home",
   },
 ];
 
